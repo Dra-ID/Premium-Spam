@@ -20,3 +20,4 @@ git pull
 python run.py
 ```
 `Kasih stars Kontol | Love stars dick`
+p
